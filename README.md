@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Auwalu Falalu Hamza</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Auwalu Hamza</h1>
+<h3 align="center">A passionate android || backend developer from Nigeria</h3>
 
 <h3 align="left">Connect with me:</h3>
 
