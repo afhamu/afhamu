@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auwalu Hamza</h1>
-<h3 align="center">A dedicated Android and backend developer driven by a strong passion for creating efficient solutions.</h3>
+<h3 align="center">A dedicated fullstack developer driven by a strong passion for creating efficient solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
