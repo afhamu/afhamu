@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auwalu Hamza</h1>
-<p>I'm a passionate Software Engineer with 3+ years of experience, mainly building backend systems with PHP (Laravel) and integrating modern frontend solutions.</p>
+<p>I'm a passionate Software Engineer with 3+ years of experience, mainly building backend systems with PHP (Laravel) and integrating modern frontend solutions. I enjoy solving problems, designing scalable architectures, and contributing to meaningful projects.</p>
 
 <h2>🧰 Tech Stack</h2>
 <ul>
