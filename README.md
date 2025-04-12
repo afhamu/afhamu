@@ -3,11 +3,11 @@
 
 <h2>🧰 Tech Stack</h2>
 <ul>
-  <li><strong>Languages:</strong> PHP, Python, JavaScript, SQL</li>
-  <li><strong>Frameworks:</strong> Laravel, FastAPI, Vue.js (basic)</li>
-  <li><strong>Tools &amp; Platforms:</strong> Docker, Git, Nginx, Typesense, Redis, MySQL, PostgreSQL</li>
+  <li><strong>Languages:</strong> PHP, Python, Java and JavaScript</li>
+  <li><strong>Frameworks:</strong> Laravel, FastAPI (basic)</li>
+  <li><strong>Tools &amp; Platforms:</strong> Docker, Git, Nginx, Typesense, Redis, MySQL</li>
   <li><strong>Testing:</strong> PHPUnit, Pest, Laravel Dusk</li>
-  <li><strong>Other Skills:</strong> REST APIs, Sanctum, Domain-Driven Design (DDD), CQRS, SOLID Principles</li>
+  <li><strong>Other Skills:</strong> REST APIs, Sanctum, SOLID Principles</li>
 </ul>
 
 <h2>📫 Let's Connect</h2>
