@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auwalu Hamza</h1>
-<h3 align="center">A dedicated fullstack developer driven by a strong passion for creating efficient solutions.</h3>
+<p align="center">I'm a passionate Software Engineer with 3+ years of experience, mainly building backend systems with PHP (Laravel) and integrating modern frontend solutions. I enjoy solving complex problems, designing scalable architectures, and contributing to meaningful projects.</p>
 
 <h3 align="left">Connect with me:</h3>
 
